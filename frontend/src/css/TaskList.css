@@ -1,0 +1,37 @@
+.task-list {
+ padding-left: 130px;
+ padding-right: 160px;
+}
+
+.task {
+  border-color: 5px solid #E0FFFF;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 1px;
+}
+
+/* #F0F8FF */
+.task-details {
+  background-color: #AFEEEE;
+  padding: 32px;
+  margin: 1px;
+  border: solid 0.5px;
+}
+
+.task-details p {
+  word-wrap: break-word;
+}
+.task-details strong {
+  color: #1E90FF	;
+}
+
+.task-details h3 {
+  color: #1E90FF;
+}
+
+.task-details strong {
+  font-size:medium;
+}
+
+
+
